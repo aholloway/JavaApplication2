@@ -6,7 +6,7 @@ package javaapplication2;
 
 /**
  *
- * 
+ * NEW NEW
  */
 public class JavaApplication2 {
 
